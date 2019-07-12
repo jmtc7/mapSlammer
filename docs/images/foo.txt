@@ -1,0 +1,1 @@
+Foo file to create "images" directory
