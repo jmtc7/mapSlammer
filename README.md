@@ -2,6 +2,9 @@
 
 This repository contains the source files and some other related documents regarding my end-of-degree thesis. This work has been supported by the Spanish Government TIN2016-76515R Grant, supported with European Regional Development Fund (ERDF) funds. I have been supported by a Spanish Government grant for cooperating with the [RoVit research group](http://www.rovit.ua.es/) in research tasks ID 998142. This work has been submitted to the [ROBOT’19](https://web.fe.up.pt/~robot2019/index.php) conference, an international congress that will be held in O Porto, Portugal, in November 2019.
 
+A demo video of its performance is available on YouTube:
+[![Alt text](https://img.youtube.com/vi/b74P3ykYE34/0.jpg)](https://www.youtube.com/watch?v=b74P3ykYE34)
+
 ----
 ----
 
