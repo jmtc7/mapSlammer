@@ -4,7 +4,7 @@ This repository contains the source files and some other related documents regar
 
 A demo video of its performance is available on YouTube:
 
-[![Alt text](https://img.youtube.com/vi/b74P3ykYE34/0.jpg)](https://www.youtube.com/watch?v=b74P3ykYE34)
+[![Demo video](docs/demo.gif)](https://www.youtube.com/watch?v=b74P3ykYE34)
 
 ----
 ----
