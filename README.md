@@ -21,18 +21,3 @@ The files in this repository are divided in the following parts (files/directori
 * **programs**: Directory containing the source files and the corresponding CMakeLists.
 * **full_runCOLOR.bash**: Bashscript integration of the whole project to ease and automate the exercution. It incorporates command-line based interaction with the user that allows some personalization of the execution
 
-
-## Instalation and usage
-
-TODO
-
-
-
-# TODOs
-
-Repository tasks:
-* Usage tutorial.
-
-Technical tasks:
-* Generate one unique CMakeList.txt to compile the whole project. 
-* For each optimisation idea or new feature I come up with, I write a comment in its correspondant source file starting by "TODO".
